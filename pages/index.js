@@ -19,6 +19,7 @@ function Home() {
                 alt="Meu Pqto"
                 width={1000}
                 height={500}
+                layout="responsive"
             />
           </div>
         </div>
