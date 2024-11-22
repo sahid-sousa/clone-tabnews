@@ -8,12 +8,11 @@ function Home() {
           alignItems: 'center', // Centraliza verticalmente
           height: '100vh' // Ocupa a altura total da tela
         }}>
-          <div style={{
-            padding: '20px',
-            backgroundColor: '#f0f0f0',
-            borderRadius: '8px',
-            justifyContent: 'center'
-          }}>
+        <div style={{
+          padding: '20px',
+          backgroundColor: '#f0f0f0',
+          borderRadius: '8px',
+        }}>
             <h1>Cadê o meu?</h1>
             <Image
                 src="/pqto.gif"
